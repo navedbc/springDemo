@@ -1,0 +1,8 @@
+package com.in2min.springapp.springsort;
+
+public class BubbleSortAlgo implements SortInterface{
+    @Override
+    public int[] sort(int[] sortarray) {
+        return new int[0];
+    }
+}
